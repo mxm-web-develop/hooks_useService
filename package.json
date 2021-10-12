@@ -1,0 +1,19 @@
+{
+  "name": "useservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.22.0",
+    "vue": "^3.2.16"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.3",
+    "vue-tsc": "^0.3.0"
+  },
+  "author": "mxm",
+  "license": "ISC"
+}
