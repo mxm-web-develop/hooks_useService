@@ -48,7 +48,7 @@ const useService = <R,D,P>({
     axios({
         method,
         url,
-        baseURL:import.meta.env.VITE_BASE_URL || baseURL,
+        baseURL:baseURL,
         data,
         timeout,
         headers,
